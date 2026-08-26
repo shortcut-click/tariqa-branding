@@ -1,0 +1,13 @@
+{
+  "name": "tariqa-branding",
+  "owner": {
+    "name": "Collectif Tariqa Pro"
+  },
+  "plugins": [
+    {
+      "name": "tariqa-branding",
+      "source": "./",
+      "description": "Cours interactif branding, naming et création de marque du Collectif Tariqa Pro"
+    }
+  ]
+}
