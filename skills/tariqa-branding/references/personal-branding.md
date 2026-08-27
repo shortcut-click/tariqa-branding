@@ -1,5 +1,7 @@
 # Personal branding — marque personnelle et marque incarnée
 
+*Dernière mise à jour : 26 août 2026*
+
 À lire quand : l'élève EST le produit (coach, formateur, consultant,
 freelance), veut développer sa visibilité personnelle, hésite à mettre son
 visage sur son e-commerce, ou construit une marque d'entreprise adossée à sa

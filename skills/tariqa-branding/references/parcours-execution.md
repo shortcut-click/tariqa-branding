@@ -1,5 +1,7 @@
 # Parcours EXÉCUTION — protocole d'interview et de production
 
+*Dernière mise à jour : 26 août 2026*
+
 Contrat annoncé à l'élève au démarrage : « On va construire ta marque en 7
 phases. Je pose une question à la fois, tu réponds avec ta réalité, je
 challenge, tu décides. À la fin de chaque phase on fige un livrable

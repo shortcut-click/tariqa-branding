@@ -1,7 +1,7 @@
 # Frameworks de création de marque et de branding
 ## Document de référence complet
 
-*Document de référence du cours branding Tariqa Pro. Version du 25 août 2026.*
+*Document de référence du cours branding Tariqa Pro. Dernière mise à jour : 26 août 2026.*
 
 ---
 

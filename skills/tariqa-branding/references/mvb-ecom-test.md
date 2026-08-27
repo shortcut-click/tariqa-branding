@@ -1,5 +1,7 @@
 # Minimum Viable Brand — boutique e-commerce en phase de test
 
+*Dernière mise à jour : 26 août 2026*
+
 À lire quand l'élève monte ou brande une boutique de test : dropshipping ou
 stock minimum, produit identifié mais pas encore validé par des ventes
 répétées. C'est le cas standard de l'élève en challenge e-commerce.

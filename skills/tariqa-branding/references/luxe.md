@@ -1,5 +1,7 @@
 # Luxe et premium — doctrine spécifique
 
+*Dernière mise à jour : 26 août 2026*
+
 À lire dès que le projet revendique « premium », « luxe », « haut de gamme »,
 ou pratique des prix nettement au-dessus de sa catégorie. Le luxe n'est pas du
 premium plus cher : ce sont deux logiques économiques différentes, et confondre

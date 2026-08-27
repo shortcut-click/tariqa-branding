@@ -1,5 +1,7 @@
 # Rebranding et migration de marque — protocole
 
+*Dernière mise à jour : 26 août 2026*
+
 À lire quand l'élève veut changer un élément fondamental d'une marque
 EXISTANTE : nom, logo, positionnement, ou fusion de plusieurs marques. Ne pas
 confondre avec la création (parcours exécution standard) ni avec le simple

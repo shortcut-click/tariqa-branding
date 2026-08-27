@@ -1,5 +1,7 @@
 # Branding islamique — corpus et protocole
 
+*Dernière mise à jour : 26 août 2026*
+
 Deux régimes à ne pas confondre :
 - **L'éthique islamique du commerce (§6) est le socle universel du
   programme** : elle s'applique à TOUT projet d'élève, y compris un produit

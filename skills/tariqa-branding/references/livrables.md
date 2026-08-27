@@ -1,5 +1,7 @@
 # Le dossier de marque autoportant — structure et exigences
 
+*Dernière mise à jour : 26 août 2026*
+
 Ce dossier est le livrable du parcours EXÉCUTION complet. Pour une boutique
 e-commerce en phase de test, le livrable est la fiche MVB (`mvb-ecom-test.md`),
 pas ce dossier.
