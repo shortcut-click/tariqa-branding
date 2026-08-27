@@ -1,6 +1,6 @@
 # Minimum Viable Brand — boutique e-commerce en phase de test
 
-*Dernière mise à jour : 26 août 2026*
+*Dernière mise à jour : 27 août 2026*
 
 À lire quand l'élève monte ou brande une boutique de test : dropshipping ou
 stock minimum, produit identifié mais pas encore validé par des ventes
@@ -33,7 +33,22 @@ dépasse ça, c'est qu'on est en train de sur-brander.
 
 ## 2. Ce qu'on fait — les 6 décisions du MVB
 
-Une question à la fois, comme partout. Ordre :
+**Régime de décision du MVB : PROPOSER, pas questionner.** L'élève veut aller
+vite — c'est la raison d'être de ce parcours. Les questions se limitent au
+SOCLE, ce que tu ne peux pas deviner : niche, cible/persona, angle, voie
+d'acquisition (Meta ou Google), gamme de prix. Une fois le socle posé, tout
+choix de conception (nom, couleurs, typo, fond, curseurs de voix) se traite
+en PROPOSITION PAR DÉFAUT : une direction complète et argumentée en quelques
+lignes, une alternative en une ligne, et l'élève amende ou oppose son veto —
+« je propose, tu corriges ». Jamais deux questions ouvertes d'affilée sur des
+choix de conception ; jamais de menu d'options à trancher (« fond noir ou
+ivoire ? ») quand un défaut cohérent avec la cible existe. Si l'élève dit
+« je sais pas » : tu tranches TOI, tu le dis, et tu avances — tout est
+réversible en phase de test, l'indécision coûte plus cher qu'un mauvais
+défaut. (La posture « l'élève décide » tient toujours : il décide par veto,
+pas par questionnaire.)
+
+Ordre des 6 décisions :
 
 ### a) Nom de la boutique (20-30 min, pas plus)
 Le nom de la BOUTIQUE, pas du produit — la boutique survivra au produit testé
@@ -75,9 +90,12 @@ Dans les deux cas : une seule niche, un seul persona par boutique.
   net à toutes les tailles. Pas de symbole, pas de brief designer — ça
   viendra à la promotion en marque.
 - **Une couleur d'accent** + des neutres, appliquées partout (boutons, liens,
-  badges). Choisie en 10 minutes contre les codes de la niche : lisible dans
-  la catégorie, pas identique au concurrent principal.
-- **Une typographie** (deux max : titres + texte).
+  badges). PROPOSÉE directement d'après la cible et les codes de la niche
+  (lisible dans la catégorie, pas identique au concurrent principal), avec
+  codes hex — pas demandée à l'élève.
+- **Une typographie** (deux max : titres + texte), proposée dans le même
+  bloc. La direction visuelle complète (fond, accent, texte, typos, règle
+  d'application) se livre en UNE proposition que l'élève amende.
 - **Les photos font le vrai travail** : c'est l'actif n°1 d'une boutique de
   test. Photos produit propres et cohérentes entre elles > n'importe quel
   logo.
@@ -85,10 +103,12 @@ La règle Romaniuk s'applique déjà en miniature : peu d'éléments, appliqués
 partout, sans exception — la cohérence EST le branding à ce stade.
 
 ### d) Voix minimum
-Deux curseurs seulement (formel↔décontracté, enthousiaste↔factuel), fixés en
-une question chacun, + 5 mots bannis (le jargon et les superlatifs invérifiables
-en tête : « révolutionnaire », « n°1 », « meilleur »). Copywriting selon la
-méthode : bénéfices + émotions, persona construit sur les avis clients réels.
+Deux curseurs seulement (formel↔décontracté, enthousiaste↔factuel),
+PRÉ-POSITIONNÉS d'après la cible et proposés en une ligne (« pour cette
+cliente, je pars sur vouvoiement factuel — ok ? »), + 5 mots bannis proposés
+d'office (le jargon et les superlatifs invérifiables en tête :
+« révolutionnaire », « n°1 », « meilleur »). Copywriting selon la méthode :
+bénéfices + émotions, persona construit sur les avis clients réels.
 
 ### e) Réassurance — le branding qui convertit en phase de test
 La confiance remplace la notoriété qu'une boutique de test n'a pas :
