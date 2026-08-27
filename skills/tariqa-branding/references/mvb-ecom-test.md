@@ -31,7 +31,12 @@ Les deux erreurs symétriques à nommer devant l'élève :
 Le MVB tient en **une session** (60-90 min tout compris). Si l'exercice
 dépasse ça, c'est qu'on est en train de sur-brander.
 
-## 2. Ce qu'on fait — les 6 décisions du MVB
+## 2. Ce qu'on fait — 4 décisions de marque + 2 annexes silencieuses
+
+La conversation ne porte QUE sur les 4 décisions de marque (a-d). Les points
+e) et f) ne sont PAS des étapes de conversation : e) est une checklist jointe
+au livrable en une phrase, f) est un contrôle que le skill applique lui-même
+à ce qu'il rédige. On ne déroule ni l'une ni l'autre avec l'élève.
 
 **Régime de décision du MVB : PROPOSER, pas questionner.** L'élève veut aller
 vite — c'est la raison d'être de ce parcours. Les questions se limitent au
@@ -110,35 +115,30 @@ d'office (le jargon et les superlatifs invérifiables en tête :
 « révolutionnaire », « n°1 », « meilleur »). Copywriting selon la méthode :
 bénéfices + émotions, persona construit sur les avis clients réels.
 
-### e) Réassurance — le branding qui convertit en phase de test
-La confiance remplace la notoriété qu'une boutique de test n'a pas :
-- Mentions légales complètes, CGV, politique de retour claire et honnête.
-- Délais de livraison RÉELS affichés (fulfillment depuis la Chine : le dire en
-  jours ouvrés honnêtes, pas « 48h » mensonger).
-- Avis clients : UNIQUEMENT des vrais. Zéro faux avis, zéro compteur bidon.
-- Aucun marqueur typique de dropshipping : compte à rebours, badges de
-  réassurance criards, images volées à AliExpress, prix barrés fantaisistes.
-- Une page « à propos » de 5 lignes sincères vaut mieux qu'une fausse histoire
-  de marque familiale.
+### e) Réassurance — ANNEXE jointe, jamais une étape de conversation
+Ce n'est pas de la construction de marque, c'est du montage de boutique : ça
+se traite dans le parcours e-commerce. Le skill n'en parle qu'en UNE phrase
+au moment de livrer la fiche (« je joins la checklist réassurance — elle se
+traite au montage de la boutique, pas ici ») et joint la checklist telle
+quelle en annexe, sans la dérouler, sans poser de questions dessus, sans
+cours sur Merchant Center :
+> Mentions légales complètes · CGV · politique de retour honnête · délais de
+> livraison réels en jours ouvrés · page « à propos » sincère · uniquement de
+> vrais avis · zéro compte à rebours, badges criards, prix barrés
+> fantaisistes ou images volées. (Voie Google : ces points sont des motifs
+> classiques de suspension Merchant Center — à traiter avant la première
+> campagne.)
 
-**Sur la voie Google Ads, ce point cesse d'être du confort : c'est une
-condition de survie du canal.** Google Merchant Center suspend vite et
-durement — mentions légales ou CGV incomplètes, délais irréalistes, faux
-avis, marqueurs de dropshipping sont des motifs classiques de ban, et un
-compte Merchant Center banni tue le canal Shopping. La checklist réassurance
-se traite AVANT la première campagne, pas après le premier refus.
-
-### f) Test de conformité — non négociable, même en test
-La conformité ne se reporte pas « à plus tard » : le test fiqh al-mu'amalat
-(islamic-branding.md §6) s'applique dès la PREMIÈRE publicité. Chaque claim
-publicitaire doit être vrai ET vérifiable (spécification, avis réel,
-démonstration — pas d'affirmation qu'on ne peut pas soutenir). Pas de fausse
-urgence ni faux compte à rebours, pas d'avant/après trompeur, pas
-d'exploitation d'insécurité. Une boutique de test ment plus facilement qu'une
-marque (elle ne « risque » pas sa réputation) — c'est précisément pour ça que
-le programme verrouille ce point ici. La position du programme : **on ne ment
-jamais au client — le mensonge retire la baraka du business, et c'est la mort
-du business halal**, avant même d'être un risque de ban publicitaire.
+### f) Véracité — un contrôle que le skill applique LUI-MÊME, en silence
+Position du programme : **on ne ment jamais au client — le mensonge retire la
+baraka du business.** Application dans le MVB : chaque promesse, angle ou
+texte que LE SKILL propose passe le test fiqh (islamic-branding.md §6) AVANT
+d'être livré — vrai et vérifiable, pas de fausse urgence, pas d'avant/après
+trompeur, pas d'exploitation d'insécurité. On ne quizze PAS l'élève sur ses
+claims (« dis-moi ce que tu comptes affirmer » est interdit) ; on relève en
+une phrase, au fil de l'eau, uniquement ce qu'un élément dit par l'élève
+déclenche ('awra dans l'imagerie, claim invérifiable, fausse urgence) — puis
+retour au fil de la marque.
 
 ## 3. Ce qu'on NE fait PAS en MVB (liste à opposer aux demandes)
 
@@ -196,10 +196,10 @@ de test par attachement au travail investi. Ce qu'un kill propre implique :
   ≥ 20 produits, et pourquoi).
 - Actifs : typo, couleur (code hex), règle photos.
 - Voix : 2 curseurs positionnés + 5 mots bannis.
-- Checklist réassurance cochée (mentions, CGV, retours, délais réels, zéro
-  marqueur dropshipping — critique sur la voie Google : risque de ban
-  Merchant Center).
-- Résultat du test de conformité sur les claims publicitaires prévus.
+- Annexe : checklist réassurance jointe telle quelle (à traiter au montage de
+  la boutique, dans le parcours e-commerce).
+- Note de véracité : les textes et angles proposés dans la fiche ont passé le
+  test fiqh ; points relevés au fil de l'eau le cas échéant.
 - Les deux sorties : signaux de promotion en marque ET conditions de kill,
   avec date de revue.
 La fiche se colle en tête du projet de l'élève ; le jour de la promotion en
