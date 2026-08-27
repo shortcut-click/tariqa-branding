@@ -98,6 +98,14 @@ Appliquer aux promesses et publicités prévues :
   réellement vivre ?
 - **Dignité de la cible** : la publicité exploite-t-elle une insécurité
   (apparence, statut, piété) au lieu de servir un besoin ?
+- **'Awra et représentation des corps** : dès que l'imagerie envisagée met en
+  scène des corps (démonstration du produit sur le corps, mannequins,
+  avant/après), POSER explicitement la question de la 'awra et de la mise en
+  scène — même si l'élève ne la soulève pas, et même en phase de cadrage.
+  Ce n'est ni un verdict ni un interdit a priori : c'est une décision de
+  position de marque que l'élève tranche et documente, avec recommandation
+  d'en parler à son coach. Ce qui est interdit au skill, c'est de laisser le
+  sujet passer sans le nommer.
 
 Un branding qui échoue à ce test échoue tout court, quel que soit son ROAS —
 c'est la position du programme.

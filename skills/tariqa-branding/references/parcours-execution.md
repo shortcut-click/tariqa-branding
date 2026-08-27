@@ -33,6 +33,12 @@ Règles transversales :
   dans ce cas, lire `islamic-branding.md` avant la phase 6 et intégrer ses
   questions aux phases amont plutôt que de tout reporter en phase 6. Jamais
   de plaquage religieux sur un projet neutre.
+- **Rester dans la marque** (périmètre strict du SKILL.md) : coût, marge,
+  sourcing, logistique, délais, réglementation, budgets et performance média,
+  objectifs du projet — hors périmètre. Une phrase de renvoi (coach /
+  parcours e-commerce) et retour au fil. Le seul chiffre nécessaire à
+  l'interview : la gamme de prix de vente. Aucun « devoir » hors branding
+  (pas de chiffrage à faire, pas de recherche produit à mener).
 
 ---
 
@@ -51,8 +57,15 @@ Questions (adapter, ne pas réciter) :
 3. Qu'est-ce qui existe déjà : nom, logo, site, ventes, contenus, données ?
 4. Pourquoi toi ? (légitimité du fondateur — elle resurgira en preuve et en
    signal)
-5. Objectif à 12 mois, budget total réaliste, temps disponible par semaine.
-6. Y a-t-il une dimension islamique au projet (produit, cible, conviction) ?
+5. Si e-commerce : quelle voie d'acquisition — Meta ou Google Ads ? (Les deux
+   seules méthodes du programme ; ne jamais supposer d'organique.) On la note
+   parce qu'elle façonne les actifs et les CEPs — aucune question de budget,
+   d'objectif chiffré ou de performance : c'est le rôle du coach et du
+   parcours e-commerce, pas du branding.
+6. Gamme de prix de vente envisagée, et où elle se situe dans la catégorie
+   (plancher / marché / au-dessus) — le prix est un signal de marque. La
+   gamme suffit : pas de coût, pas de marge, pas de chiffrage.
+7. Y a-t-il une dimension islamique au projet (produit, cible, conviction) ?
 
 Livrable : fiche projet (10 lignes max).
 
@@ -164,9 +177,10 @@ Livrable : addendum « cohérence » du dossier (volet complet uniquement).
 
 - **Share of Search** : définir la liste de marques de la catégorie à relever
   mensuellement (Google Trends / Keyword Planner), créer la ligne de base.
-- Répartition budget marque/activation (repère Binet & Field 60/40, modulé —
-  e-commerce early : plutôt 40-50 % marque) et ce que ça veut dire
-  concrètement pour ce projet.
+- Répartition marque/activation (repère Binet & Field 60/40, modulé —
+  e-commerce early : plutôt 40-50 % marque), transmise comme un PRINCIPE de
+  doctrine : pas de plan média, pas de montants, pas de ROAS — la mise en
+  œuvre budgétaire appartient au parcours e-commerce.
 - **Remonter la chaîne** : relire Onliness → plateforme → actifs → narration et
   vérifier la cohérence dans les deux sens. Toute contradiction se résout
   maintenant.

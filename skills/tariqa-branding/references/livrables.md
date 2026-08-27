@@ -77,7 +77,8 @@ minoritaire), promotions et prix (ce que le prix signale).
 ### 7. Mesure (1 page)
 - Share of Search : liste des marques suivies, source, cadence mensuelle,
   valeur de départ.
-- Répartition budget marque/activation choisie et sa justification.
+- Répartition marque/activation choisie et sa justification (principe de
+  doctrine — aucun montant, aucun plan média, aucun objectif de performance).
 - 3-5 signaux d'alerte qui déclencheraient une révision du positionnement
   (ex. « un concurrent revendique notre Onliness », « le CEP principal se
   remplit d'enchérisseurs »).
